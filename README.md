@@ -1,7 +1,7 @@
 
   # Hey I'm Neeraj Kumar 👋
   
-#### I am a passionate MERN Stack Web Developer. I am proficient in front-end technologies such as HTML, CSS, and JavaScript, and have experience with modern frameworks like React I am also familiar with back-end technologies like Node.js and Express.js and comfortable working with databases like MongoDB. I am a quick learner, a team player, and always eager to learn new technologies to further enhance my skills as a MERM Stack Web Developer.
+ I am a passionate MERN Stack Web Developer. I am proficient in front-end technologies such as HTML, CSS, and JavaScript, and have experience with modern frameworks like React I am also familiar with back-end technologies like Node.js and Express.js and comfortable working with databases like MongoDB. I am a quick learner, a team player, and always eager to learn new technologies to enhance my MERM Stack Web Developer skills further.
 
 ## Contact
 
