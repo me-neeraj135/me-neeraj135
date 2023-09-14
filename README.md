@@ -5,13 +5,10 @@
 I am a passionate MERN Stack Web Developer. I am proficient in front-end technologies such as HTML, CSS, and JavaScript, and have experience with modern frameworks like React I am also familiar with back-end technologies like Node.js and Express.js and comfortable working with databases like MongoDB. I am a quick learner, a team player, and always eager to learn new technologies to enhance my MERM Stack Web Developer skills further.
 
 ## Contact
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> <br>
-<a href=“tel:+917703980944”> +91 7703980944</a>
-
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <br>
 <a  href="mailto:welcometoneeraj@gmail.com">
-welcometoneeraj@gmail.com
 </a>
+welcometoneeraj@gmail.com
 
 
 ## Social
