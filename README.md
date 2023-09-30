@@ -1,6 +1,6 @@
 # Hey there I'm Neeraj !👋
 
-![hello world](https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg)
+
 
 I am a passionate MERN Stack Web Developer. I am proficient in front-end technologies such as HTML, CSS, and JavaScript, and have experience with modern frameworks like React I am also familiar with back-end technologies like Node.js and Express.js and comfortable working with databases like MongoDB. I am a quick learner, a team player, and always eager to learn new technologies to enhance my MERM Stack Web Developer skills further.
 
