@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/neeraj945436" target="blank"><img src="https://img.shields.io/twitter/follow/neeraj945436?logo=twitter&style=for-the-badge" alt="neeraj945436" /></a> </p>
 
-- 🔭 I’m currently working on **my skill developement**
+- 🔭 I’m currently working on **my skills development**
 
-- 🌱 I’m currently learning **Scyber Security**
+- 🌱 I’m currently learning **SyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-git-main-me-neeraj135.vercel.app/](https://my-portfolio-git-main-me-neeraj135.vercel.app/)
 
-- 💬 Ask me about **React,React-Native,JavaScript,Python,DSA**
+- 💬 Ask me about **React, React-Native, JavaScript,Python, DSA**
 
 - 📫 How to reach me **welcometoneeraj@gmail.com**
 
