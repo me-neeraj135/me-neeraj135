@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Neeraj Kumar</h2>
-<h4 align="center">A passionate Full Stack and React-Native developer from India</h4>
+<h4 align="center">A passionate Full Stack developer from India</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-neeraj135&label=Profile%20views&color=0e75b6&style=flat" alt="me-neeraj135" /> </p>
 
