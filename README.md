@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-git-main-me-neeraj135.vercel.app/](https://my-portfolio-git-main-me-neeraj135.vercel.app/)
 
-- 💬 Ask me about **React, React-Native, JavaScript, Python, DSA**
+- 💬 Ask me about **React, React-Native,Angular, JavaScript, Python, DSA**
 
 - 📫 How to reach me **welcometoneeraj@gmail.com**
 
