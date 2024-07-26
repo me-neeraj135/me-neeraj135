@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on my **Skills Development**. 
 
-- 🌱 I’m currently travelling .
+- 🌱 I’m currently **travelling** .
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-git-main-me-neeraj135.vercel.app/](https://my-portfolio-git-main-me-neeraj135.vercel.app/)
 
-- 💬 Ask me about **React, React-Native,Angular, JavaScript, Python, DSA**
+- 💬 Ask me about **React, React-Native, Angular, JavaScript, TypeScript, Python, DSA**
 
 - 📫 How to reach me **welcometoneeraj@gmail.com**
 
