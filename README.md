@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/neeraj945436" target="blank"><img src="https://img.shields.io/twitter/follow/neeraj945436?logo=twitter&style=for-the-badge" alt="neeraj945436" /></a> </p>
 
-- 🔭 I’m currently working on **my skills development**
+- 🔭 I’m currently travelling. 
 
 - 🌱 I’m currently learning **SyberSecurity**
 
