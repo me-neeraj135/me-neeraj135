@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my **Skills Development**. 
 
-- 🌱 I’m currently **travelling** .
+- 🌱 I’m currently **enjoying my life** .
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-git-main-me-neeraj135.vercel.app/](https://my-portfolio-git-main-me-neeraj135.vercel.app/)
 
