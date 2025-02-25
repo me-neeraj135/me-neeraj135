@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/neeraj945436" target="blank"><img src="https://img.shields.io/twitter/follow/neeraj945436?logo=twitter&style=for-the-badge" alt="neeraj945436" /></a> </p>
 
-- 🔭 I’m currently working on my **Skills Development**. 
 
-- 🌱 I’m currently **enjoying my life** .
-
+- 🌱 I’m currently working on my **Skills Development**. 
+  
 - 👨‍💻 All of my projects are available at [https://my-portfolio-git-main-me-neeraj135.vercel.app/](https://my-portfolio-git-main-me-neeraj135.vercel.app/)
 
 - 💬 Ask me about **React, React-Native, Angular, JavaScript, TypeScript, Python, DSA**
@@ -16,6 +15,7 @@
 - 📫 How to reach me **welcometoneeraj@gmail.com**
 
 - ⚡ Fun fact **I like travelling**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
