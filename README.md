@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ### 🚀 About Me
 
 I’m a **Full Stack Developer** from India focused on building **scalable, production-ready web applications**.
@@ -21,7 +20,6 @@ I’m a **Full Stack Developer** from India focused on building **scalable, prod
 - 🌍 Open to **freelance & remote opportunities**
 
 ---
-
 ### 🌐 Connect With Me
 
 <p align="left">
@@ -51,20 +49,15 @@ I’m a **Full Stack Developer** from India focused on building **scalable, prod
 </p>
 
 ---
-
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=me-neeraj135&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=me-neeraj135&show_icons=true&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=me-neeraj135&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=me-neeraj135&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-neeraj135&layout=compact&theme=tokyonight" height="160" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-neeraj135&layout=compact&theme=tokyonight" />
-</p> 
 
 ---
 
