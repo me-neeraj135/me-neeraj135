@@ -64,15 +64,7 @@ I’m a **Full Stack Developer** from India focused on building **scalable, prod
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-neeraj135&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🚀 Featured Work (Add Your Best Projects)
-
-- 🔹 Project Name – short impact description  
-- 🔹 Project Name – what problem it solves  
-- 🔹 Project Name – tech + result  
+</p> 
 
 ---
 
