@@ -25,7 +25,6 @@ I’m a **Full Stack Developer** from India focused on building **scalable, prod
 <p align="left">
   <a href="https://twitter.com/neeraj945436"><img src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
   <a href="https://linkedin.com/in/neeraj-kumar-107177225"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://instagram.com/insta.neeraj.rajpoot"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
   <a href="https://discord.gg/meneeraj1455"><img src="https://skillicons.dev/icons?i=discord" height="30" /></a>
 </p>
 
