@@ -1,75 +1,59 @@
-<h1 align="center">Hi 👋 I'm Neeraj Kumar</h1>
-<h3 align="center">🌍 Full Stack Developer | JavaScript Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=me-neeraj135&label=Profile%20Views&color=0e75b6&style=flat" />
-  <a href="https://twitter.com/neeraj945436" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/neeraj945436?logo=twitter&style=for-the-badge" />
-  </a>
-</p>
+# Neeraj Kumar
+### Backend Software Engineer — Node.js
 
----
-### 🚀 About Me
+Backend engineer building APIs, services, and data-layer systems designed to scale.
+Based in India · Available for remote roles across US, Canada, and EU time zones.
 
-I’m a **Full Stack Developer** from India focused on building **scalable, production-ready web applications**.
+📫 **welcometoneeraj@gmail.com** · [LinkedIn](https://linkedin.com/in/neeraj-kumar-107177225) · Open to full-time & contract backend roles — remote-first
 
-- 🌱 Learning: **Next.js, Shopify Hydrogen, Cloud & DevOps**
-- 💼 Portfolio: https://my-portfolio-git-main-me-neeraj135.vercel.app/
-- 💬 Ask me about: `React`, `Next.js`, `Node.js`, `TypeScript`, `MongoDB`, `Python`
-- 📫 Email: **welcometoneeraj@gmail.com**
-- 🌍 Open to **freelance & remote opportunities**
+</div>
 
----
-### 🌐 Connect With Me
+<br>
 
-<p align="left">
-  <a href="https://twitter.com/neeraj945436"><img src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
-  <a href="https://linkedin.com/in/neeraj-kumar-107177225"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://discord.gg/meneeraj1455"><img src="https://skillicons.dev/icons?i=discord" height="30" /></a>
-</p>
+## Summary
 
----
+Backend engineer with hands-on experience in Node.js, REST/GraphQL API design, and relational + NoSQL databases. Comfortable working async across time zones with distributed teams. Interested in roles that involve service architecture, performance, and reliability at scale.
 
-### 🛠️ Tech Stack
+<br>
 
-#### 🚀 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,angular,sass,tailwind" />
-</p>
+## Stack
 
-#### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
-</p>
+**Languages** — JavaScript · TypeScript
+**Runtime & Frameworks** — Node.js · Express · NestJS
+**Databases** — PostgreSQL · MongoDB · Redis
+**API Design** — REST · GraphQL · WebSockets
+**Messaging / Queues** — Kafka · RabbitMQ
+**Cloud & Infrastructure** — AWS (EC2, S3, Lambda) · Docker · Kubernetes
+**CI/CD** — GitHub Actions · Nginx
+**Testing** — Jest · Supertest
+**Auth & Security** — JWT · OAuth2 · RBAC
 
-#### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,jenkins" />
-</p>
+<br>
 
----
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=me-neeraj135&show_icons=true&theme=tokyonight" height="160" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=me-neeraj135&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-neeraj135&layout=compact&theme=tokyonight" height="160" />
-</p>
+<!--
+## Featured Projects
+**[Project Name](#)** — What it does, the problem it solves, and any scale/performance detail.
+`Node.js` `Express` `PostgreSQL` `Docker`
 
----
+**[Project Name](#)** — What it does.
+`NestJS` `MongoDB` `REST API` `JWT`
 
-### 🤝 Let's Collaborate
+**[Project Name](#)** — What it does.
+`Node.js` `Redis` `Kafka` `Microservices`
+-->
+<br>
 
-I enjoy building:
-- 🚀 Scalable web apps  
-- 🛒 eCommerce platforms (Shopify & custom)  
-- ⚡ High-performance systems  
+## Currently
 
-📩 **welcometoneeraj@gmail.com**  
-🌍 Remote | Open to global opportunities  
+-  Building production-grade backend services with clean architecture and test coverage
+-  Deepening system design and distributed systems knowledge
+-  Targeting backend roles at companies in the US, Canada, and Europe (remote)
 
----
+<br>
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+<div align="center">
+<sub>welcometoneeraj@gmail.com · Remote-friendly </sub>
+</div>
