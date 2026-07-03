@@ -20,14 +20,13 @@ Backend engineer with hands-on experience in Node.js, REST/GraphQL API design, a
 
 ## Stack
 
-**Languages** — JavaScript · TypeScript <br>
+**Languages** — JavaScript · TypeScript · Java(core)<br>
 **Runtime & Frameworks** — Node.js · Express · NestJS<br>
 **Databases** — PostgreSQL · MongoDB · Redis <br>
 **API Design** — REST · GraphQL · WebSockets <br>
 **Messaging / Queues** — Kafka · RabbitMQ<br>
 **Cloud & Infrastructure** — AWS(S3) · Docker <br>
 **CI/CD** — GitHub Actions · Nginx <br>
-**Testing** — Jest · <br>
 **Auth & Security** — JWT · OAuth2 · RBAC
 
 <br>
